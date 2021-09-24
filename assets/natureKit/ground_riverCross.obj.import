@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverCross.obj-c0530c15c16e041fece4647d64849f10.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverCross.obj-c0530c15c16e041fece4647d64849f10.mesh" ]
+
+source_file="res://assets/natureKit/ground_riverCross.obj"
+dest_files=[ "res://.import/ground_riverCross.obj-c0530c15c16e041fece4647d64849f10.mesh", "res://.import/ground_riverCross.obj-c0530c15c16e041fece4647d64849f10.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

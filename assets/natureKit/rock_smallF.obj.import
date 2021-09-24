@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock_smallF.obj-1f466169036535ff4a9422f769b6e8da.mesh"
+
+[deps]
+
+files=[ "res://.import/rock_smallF.obj-1f466169036535ff4a9422f769b6e8da.mesh" ]
+
+source_file="res://assets/natureKit/rock_smallF.obj"
+dest_files=[ "res://.import/rock_smallF.obj-1f466169036535ff4a9422f769b6e8da.mesh", "res://.import/rock_smallF.obj-1f466169036535ff4a9422f769b6e8da.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

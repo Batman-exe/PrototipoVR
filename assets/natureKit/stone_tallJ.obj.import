@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stone_tallJ.obj-91206d2923398c8838149100d2d928f2.mesh"
+
+[deps]
+
+files=[ "res://.import/stone_tallJ.obj-91206d2923398c8838149100d2d928f2.mesh" ]
+
+source_file="res://assets/natureKit/stone_tallJ.obj"
+dest_files=[ "res://.import/stone_tallJ.obj-91206d2923398c8838149100d2d928f2.mesh", "res://.import/stone_tallJ.obj-91206d2923398c8838149100d2d928f2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

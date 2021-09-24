@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crops_leafsStageB.obj-9ea3cacb0d9ac9861fe64e992f530025.mesh"
+
+[deps]
+
+files=[ "res://.import/crops_leafsStageB.obj-9ea3cacb0d9ac9861fe64e992f530025.mesh" ]
+
+source_file="res://assets/natureKit/crops_leafsStageB.obj"
+dest_files=[ "res://.import/crops_leafsStageB.obj-9ea3cacb0d9ac9861fe64e992f530025.mesh", "res://.import/crops_leafsStageB.obj-9ea3cacb0d9ac9861fe64e992f530025.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

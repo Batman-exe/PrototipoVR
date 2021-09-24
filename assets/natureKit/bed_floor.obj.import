@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bed_floor.obj-e483d80fea4b4a168013e80c1a2308af.mesh"
+
+[deps]
+
+files=[ "res://.import/bed_floor.obj-e483d80fea4b4a168013e80c1a2308af.mesh" ]
+
+source_file="res://assets/natureKit/bed_floor.obj"
+dest_files=[ "res://.import/bed_floor.obj-e483d80fea4b4a168013e80c1a2308af.mesh", "res://.import/bed_floor.obj-e483d80fea4b4a168013e80c1a2308af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

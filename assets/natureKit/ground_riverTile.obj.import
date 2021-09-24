@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverTile.obj-7a16d54f441463266cf49f8ea162c88e.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverTile.obj-7a16d54f441463266cf49f8ea162c88e.mesh" ]
+
+source_file="res://assets/natureKit/ground_riverTile.obj"
+dest_files=[ "res://.import/ground_riverTile.obj-7a16d54f441463266cf49f8ea162c88e.mesh", "res://.import/ground_riverTile.obj-7a16d54f441463266cf49f8ea162c88e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridge_side_stoneRound.obj-47f6d5d6a0e98ab599646f5353165967.mesh"
+
+[deps]
+
+files=[ "res://.import/bridge_side_stoneRound.obj-47f6d5d6a0e98ab599646f5353165967.mesh" ]
+
+source_file="res://assets/natureKit/bridge_side_stoneRound.obj"
+dest_files=[ "res://.import/bridge_side_stoneRound.obj-47f6d5d6a0e98ab599646f5353165967.mesh", "res://.import/bridge_side_stoneRound.obj-47f6d5d6a0e98ab599646f5353165967.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_fat.obj-fb8f38d5cde941c349db2fbea1d78f3b.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_fat.obj-fb8f38d5cde941c349db2fbea1d78f3b.mesh" ]
+
+source_file="res://assets/natureKit/tree_fat.obj"
+dest_files=[ "res://.import/tree_fat.obj-fb8f38d5cde941c349db2fbea1d78f3b.mesh", "res://.import/tree_fat.obj-fb8f38d5cde941c349db2fbea1d78f3b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

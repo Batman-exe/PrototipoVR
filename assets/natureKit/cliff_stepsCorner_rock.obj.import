@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliff_stepsCorner_rock.obj-75f7153a8831444a01d2e67781ba0705.mesh"
+
+[deps]
+
+files=[ "res://.import/cliff_stepsCorner_rock.obj-75f7153a8831444a01d2e67781ba0705.mesh" ]
+
+source_file="res://assets/natureKit/cliff_stepsCorner_rock.obj"
+dest_files=[ "res://.import/cliff_stepsCorner_rock.obj-75f7153a8831444a01d2e67781ba0705.mesh", "res://.import/cliff_stepsCorner_rock.obj-75f7153a8831444a01d2e67781ba0705.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
