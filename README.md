@@ -1,4 +1,9 @@
 # Godot Oculus Mobile GDNative module
+
+=========================================================
+This README was added by a library in the project.
+=========================================================
+
 This module is provided as is, all files are contained within the addons/godot-ovrmobile folder
 
 This module requires **Godot 3.2 or newer** to run.
